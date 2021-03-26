@@ -8,12 +8,19 @@ Professor: Rodrigo Bossini
 "dependencies": { 
 </br>
     "@expo/vector-icons": "^12.0.4",
+</br>
     "@react-native-community/masked-view": "^0.1.10",
+</br>
     "react-native-screens": "~2.15.2",
+</br>
     "react-native-web": "~0.13.12",
+</br>
     "react-navigation": "^4.4.4",
+</br>
     "react-navigation-header-buttons": "3.1.9",
+</br>
     "react-navigation-stack": "^2.10.4"
+</br>
 }
 
 
