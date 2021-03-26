@@ -5,7 +5,8 @@ Professor: Rodrigo Bossini
 
 # Dependências do projeto
 
-"dependencies": {
+"dependencies": { 
+</br>
     "@expo/vector-icons": "^12.0.4",
     "@react-native-community/masked-view": "^0.1.10",
     "react-native-screens": "~2.15.2",
